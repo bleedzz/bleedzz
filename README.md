@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **raphamf421@gmai.com**
 
-- ⚡ Fun fact **I pratically only use keyboard when im coding**
+- ⚡ Fun fact **I preffer ice cofee on morning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

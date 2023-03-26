@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Olá eu sou Raphael M. Fattori</h1>
+<h1 align="center">Olá 👋, eu sou Raphael M. Fattori</h1>
 <h3 align="center">Um desenvovedor brasileiro apaixonado por tecnologia!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bleedzz&label=Profile%20views&color=0e75b6&style=flat" alt="bleedzz" /> </p>

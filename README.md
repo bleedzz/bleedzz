@@ -15,7 +15,6 @@
 
 <h3 align="left">Se conecte comigo:</h3>
 <p align="left">
-<a href="https://twitter.com/bleed_zz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bleed_zz" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/raphael-medeiros-fattori-159066117/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raphael-medeiros-fattori-159066117/" height="30" width="40" /></a>
 </p>
 

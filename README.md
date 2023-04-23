@@ -1,17 +1,17 @@
 <h1 align="center">Olá 👋, eu sou Raphael M. Fattori</h1>
-<h3 align="center">Um desenvovedor brasileiro apaixonado por tecnologia!</h3>
+<h3 align="center">Um desenvolvedor brasileiro apaixonado por tecnologia!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bleedzz&label=Profile%20views&color=0e75b6&style=flat" alt="bleedzz" /> </p>
 
 <p align="left"> <a href="https://twitter.com/bleed_zz" target="blank"><img src="https://img.shields.io/twitter/follow/bleed_zz?logo=twitter&style=for-the-badge" alt="bleed_zz" /></a> </p>
 
-- 🌱 Atualmente estou aprendendo **TypeScript**
+- 🌱 Atualmente estou aprendendo **TypeScript**.
 
-- 💬 Me pergunte sobre **React, JavaScript, Html and Css**
+- 💬 Me pergunte sobre **React, JavaScript, Html and Css**.
 
-- 📫 Como me contactar **raphamf421@gmai.com**
+- 📫 Como me contactar **raphamf421@gmail.com**.
 
-- ⚡ Lembre-se **Beba água e se cuide**
+- ⚡ Lembre-se, **beba água e se cuide**.
 
 <h3 align="left">Se conecte comigo:</h3>
 <p align="left">

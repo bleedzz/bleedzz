@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/bleed_zz" target="blank"><img src="https://img.shields.io/twitter/follow/bleed_zz?logo=twitter&style=for-the-badge" alt="bleed_zz" /></a> </p>
 
-- 🌱 Atualmente estou aprendendo **TypeScript**.
+- 🌱 Atualmente estou aprendendo **Vue.JS**.
 
-- 💬 Me pergunte sobre **React, JavaScript, Html and Css**.
+- 💬 Me pergunte sobre **React, JavaScript, TypeScript, Html e Css**.
 
 - 📫 Como me contactar **raphamf421@gmail.com**.
 

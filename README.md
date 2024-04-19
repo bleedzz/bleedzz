@@ -3,11 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bleedzz&label=Profile%20views&color=0e75b6&style=flat" alt="bleedzz" /> </p>
 
-<p align="left"> <a href="https://twitter.com/bleed_zz" target="blank"><img src="https://img.shields.io/twitter/follow/bleed_zz?logo=twitter&style=for-the-badge" alt="bleed_zz" /></a> </p>
 
-- 🌱 Atualmente estou aprendendo **Angular**.
+- 🌱 Atualmente estou aprendendo **Python**.
 
-- 💬 Me pergunte sobre **React, JavaScript, TypeScript, Html e Css**.
+- 💬 Me pergunte sobre **React, JavaScript, TypeScript, Html, Css e Redes**.
 
 - 📫 Como me contactar **raphamf421@gmail.com**.
 

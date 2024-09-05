@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bleedzz&label=Profile%20views&color=0e75b6&style=flat" alt="bleedzz" /> </p>
 
 
-- 🌱 Atualmente estou aprendendo **Python**.
+- 🌱 Atualmente estou aprendendo **C**.
 
-- 💬 Me pergunte sobre **React, JavaScript, TypeScript, Html, Css e Redes**.
+- 💬 Me pergunte sobre **React, JavaScript, TypeScript, Html, Css, Python, Redes e Infraestrutura**.
 
 - 📫 Como me contactar **raphamf421@gmail.com**.
 

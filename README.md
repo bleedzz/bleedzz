@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bleedzz&label=Profile%20views&color=0e75b6&style=flat" alt="bleedzz" /> </p>
 
 
-- 🌱 Atualmente estou aprendendo **C**.
+- 🌱 Atualmente estou aprendendo **Python**.
 
-- 💬 Me pergunte sobre **React, JavaScript, TypeScript, Html, Css, Python, Redes e Infraestrutura**.
+- 💬 Me pergunte sobre **React, JavaScript, TypeScript, Html, Css e Redes**.
 
 - 📫 Como me contactar **raphamf421@gmail.com**.
 
@@ -14,7 +14,7 @@
 
 <h3 align="left">Se conecte comigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/raphael-medeiros-fattori-159066117/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raphael-medeiros-fattori-159066117/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/raphael-fattori" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[https://www.linkedin.com/in/raphael-fattori" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Linguagens e ferramentas:</h3>
